@@ -1,4 +1,3 @@
-"""
 Functional Python Snippets Collection
 =====================================
 
@@ -39,9 +38,9 @@ Examples:
 - tree_depth(t)         # 1
 
 # Parking
-- park = parking(10, 2, 2, 1)
-- park["start_parking"](123, "VIP")
-- park["print_parking"]("VIP")
+- `park = parking(10, 2, 2, 1)`
+- `park["start_parking"](123, "VIP")`
+- `park["print_parking"]("VIP")`
 
 Notes:
 ------
